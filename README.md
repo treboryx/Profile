@@ -25,5 +25,10 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Get your own profile
+
+Simply fork the project
+Clone it
+Add your details in profiles.js by following the structure of the example profiles (Don't forget you can add a description and a custom color, these are optional!)
+Submit a pull request
+Done! Just wait until it gets accepted
